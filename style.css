@@ -18,7 +18,7 @@ nav ul li a {
     color: #000;
 }
 
-nav ul li .dropdown-menu {
+nav ul li .dropdown-menu { 
     display: none;
     position: absolute;
     top: 100%;
@@ -40,6 +40,7 @@ nav ul li .dropdown-menu li a {
 nav ul li:hover .dropdown-menu {
     display: block;
 }
+
 /* Best Sellers Carousel */
 .carousel {
     width: 100%;
